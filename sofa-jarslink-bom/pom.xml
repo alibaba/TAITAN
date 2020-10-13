@@ -19,7 +19,7 @@
         <commons.io.version>2.5</commons.io.version>
         <jmckito.version>1.39</jmckito.version>
         <mockito.version>2.8.47</mockito.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencyManagement>
